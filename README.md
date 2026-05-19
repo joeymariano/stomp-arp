@@ -1,6 +1,6 @@
 # stomp_arp
 
-![The built pedal](stomp-build.jpg)
+<img src="stomp-build.jpg" alt="The built pedal" width="33%">
 
 An Arduino sketch for the [OpenMusicLabs StompShield](http://www.openmusiclabs.com/projects/stomp-shield/) that creates a rhythmic octave-up "arpeggio" effect by alternating between normal-speed and double-speed playback of a short live audio buffer. The rotary encoder on the pedal sets the alternation rate.
 
